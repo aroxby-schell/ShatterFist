@@ -1,0 +1,25 @@
+ShatterFist Prototype
+------------------------------------
+This demo tests the control scheme of ShatterFist.
+
+Xbox Controller:
+Move - Left Analog Stick
+Dodge - Right Analog Stick
+Attack - X
+Jump - A
+Grab - Y
+Block - Left Shoulder
+Tackle - Right Shoulder
+Pause - Start
+Create new dummy - Back
+
+Keyboard:
+Move - Arrow keys
+Dodge - WASD
+Attack - Q
+Jump - Space
+Grab - R
+Block - E
+Tackle - Z
+Pause - Esc
+Create new dummy - End
